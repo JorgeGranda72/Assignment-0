@@ -1,4 +1,6 @@
 function greetFriend(name) {
+  console.log("Hello, " + name + "!");
+  //We output "Hello, Albert!"
   // Insert code here;
 }
 
