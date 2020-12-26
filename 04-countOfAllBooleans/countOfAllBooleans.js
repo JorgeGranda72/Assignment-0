@@ -1,7 +1,7 @@
 function countOfAllBooleans(arr) {
   var count = 0;
-  for(var i = 0;i < array.length; i++){
-    if(array[i] == true || array[i] == false)
+  for(var i = 0;i < arr.length; i++){
+    if(arr[i] == true || arr[i] == false)
     count++
 }
   return count;
