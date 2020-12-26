@@ -1,5 +1,5 @@
 function greetFriend(name) {
-  console.log("Hello, " + name + "!");
+  return "Hello, " + name + "!");
   //We output "Hello, Albert!"
   // Insert code here;
 }
