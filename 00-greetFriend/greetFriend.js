@@ -1,6 +1,6 @@
 function greetFriend(name) {
-  // Insert code here;
+return  "Hello, " + name + '!'; 
+ // Insert code here;
+// Donot not edit this line;
 }
-
-// Do not edit this line;
 module.exports = greetFriend;
