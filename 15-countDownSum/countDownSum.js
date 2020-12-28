@@ -3,9 +3,10 @@ class MySolution {
     if(num === 1){
       return 1
   }
-  else{
+    else{
       return num + this.countDownSum(num - 1);
   }
+}
 }
 
 // Do not edit this line;
