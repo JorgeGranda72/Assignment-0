@@ -1,8 +1,8 @@
 function productOfAnyAmountOfNumbers(...args) {
-  //Passing a callback function with reduce() to
-  //return the product of arguments
-  return theArgs.reduce((previous, current) => {
-    return previous * current;});
+  //Passing a callback function with reduce() that
+  //returns the product of arguments
+  return args.reduce((previousValue, currentValue) => {
+    return previousValue * currentValue;});
 }
 
 // Do not edit this line;
